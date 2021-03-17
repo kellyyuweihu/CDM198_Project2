@@ -385,6 +385,12 @@ function passangerDraw()
 	end
 
 end
+
+-->8
+--music
+
+music(0)
+
 __gfx__
 0000000044444444cccccccc66666666ccaaaaccccccccccccccccccccaaaaaccccccccccccccccccccccccccccccccccccc22cccc9999cccceeeeccc555555c
 0000000044444444cccccccc66666156caaaaaaccccc99cccccccccccca1aa1cccccccccceeecccccccccccccc1c1ccccc22222ccc9889ccc8888eecc588885c
